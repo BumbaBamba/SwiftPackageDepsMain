@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/BumbaBamba/SwiftPackageDeps2.git",
       "state" : {
-        "revision" : "ce5b513430ebbd0a1aefe7bcd505bfe2e8bc60db",
-        "version" : "1.1.0"
+        "revision" : "106829e4a894339a56ba141a559a8c1765d9aa35",
+        "version" : "2.0.0"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/BumbaBamba/SwiftPackageDeps3.git",
       "state" : {
-        "revision" : "8db612aac665417bf8dc8ff30fd8b6996b8a9173",
-        "version" : "2.0.0"
+        "revision" : "d5f80b67a8f226ae8fda8e337235af389e9af8ca",
+        "version" : "1.1.0"
       }
     }
   ],
