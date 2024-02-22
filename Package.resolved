@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftpackagedeps1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BumbaBamba/SwiftPackageDeps1.git",
+      "state" : {
+        "revision" : "1f42cc4631fd9318c69414225af3701f57312edd",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swiftpackagedeps2",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BumbaBamba/SwiftPackageDeps2.git",
+      "state" : {
+        "revision" : "ce5b513430ebbd0a1aefe7bcd505bfe2e8bc60db",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swiftpackagedeps3",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BumbaBamba/SwiftPackageDeps3.git",
+      "state" : {
+        "revision" : "8db612aac665417bf8dc8ff30fd8b6996b8a9173",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
