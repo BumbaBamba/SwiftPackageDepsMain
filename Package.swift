@@ -14,8 +14,13 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/BumbaBamba/SwiftPackageDeps1.git", from: "1.0.0"),
         .package(url: "https://github.com/BumbaBamba/SwiftPackageDeps2.git", exact: "2.0.0"),
+        
+        // deprecated
+//        .package(url: "https://github.com/BumbaBamba/SwiftPackageDeps2.git", .exact("2.0.0")),
+        
         .package(url: "https://github.com/BumbaBamba/SwiftPackageDeps3.git", .upToNextMajor(from: "1.0.0")),
 //        .package(url: "https://github.com/BumbaBamba/SwiftPackageDeps3.git", .upToNextMinor(from: "1.0.0")),
+
 //         and one more variant with ranges
 //        .package(url: "https://github.com/BumbaBamba/SwiftPackageDeps3.git", "1.0.0"..<"2.0.0"),
 //        .package(url: "https://github.com/BumbaBamba/SwiftPackageDeps3.git", "1.0.0"..."2.0.0"),
